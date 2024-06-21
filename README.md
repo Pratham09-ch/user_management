@@ -45,6 +45,8 @@ To get started with the project, follow these steps:
 - then execute this SQL query:
        to insert the record in roles table " INSERT INTO `roles` (`id`, `name`, `created_at`, `updated_at`) VALUES (NULL, 'Admin', 'NULL', NULL); "
       this is helps to authenticate the admin user at time of admin login.
+- OR Instead of that you can just upload this SQL file into your database
+https://drive.google.com/file/d/1t2PwsFz6lIOPH_nLUkdrV0QHEzSSdRwm/view?usp=sharing
 
 
 
